@@ -1,12 +1,13 @@
-import * as data from './data.JSON';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+       
         <p>
-          data
+          React.createElement('div',null,"hello world");
         </p>
         <a
           className="App-link"

@@ -11,8 +11,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            MY NAME IS SAM AND I HAVE AN UNUSUAL INFATUATION WITH BOYS AND THEIR BUTTS! THIS IS A PROBLEM I HAVE HAD FOR A VERY LONG TIME AND I NEED SERIOUS HELP. PLEASE SET UP AN APPOINTMENT WITH ME AS SOON AS POSSIBLE BEFORE I GET MYSELF INTO DEEP DEEP TROUBLE. BUUUUUUUTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSS
-          </p>
+            
           <div className="flex justify-center">
             <a
               href="#contact"

@@ -146,7 +146,7 @@ export const work_experience= [
         ]
       }
     ];
-   export const skill= [
+   export const skills= [
       "AWS Certified Cloud Practitioner",
       "Java",
       "Python",
